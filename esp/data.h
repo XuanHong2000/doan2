@@ -18,7 +18,7 @@
 #define L3  D7
 #define L4  D8
 
-String ssid[] = { "Chinh Nghiep", "" }, password[] = { "03897.@!", "" };
+String ssid[] = { "Chinh Nghiep", "wififree" , "iphone" }, password[] = { "03897.@!", "hongbn12" , "hongbn123$" };
 uint8_t temp = 0, hum = 0;
 uint16_t gas = 0;
 uint64_t _time = 0;
