@@ -94,13 +94,7 @@ bool checkFakeCard(uint8_t valid_card[][4])
     else count = 0;
   }
 
-  //  control::controlBuzzer(1);
-  //  delay(100);
-  //  control::controlBuzzer(0);
-  //  delay(200);
-  //  control::controlBuzzer(1);
-  //  delay(100);
-  //  control::controlBuzzer(0);
+
 
   return false;
 }
